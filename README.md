@@ -34,8 +34,11 @@
 
 ```
 XMU-skill/
+├── README.md                    # 你正在看的这份
+├── LICENSE                      # MIT
 └── thesis-format-conformer/     ← 把它作为 skill 导入
     ├── SKILL.md                 # skill 说明书（给 agent 看的）
+    ├── README.md                # 子目录速查版（给人看的）
     ├── assets/                  # 规范样式库 / 编号库 / 校徽
     ├── references/              # 格式规范全文
     └── scripts/                 # 干活的全在这
@@ -232,7 +235,9 @@ SCHOOL_COVER_LOGO = "assets/你的校徽.png"
 
 ## 📄 License
 
-未指定。默认保留所有权利 —— 要用于分发请先联系作者。
+[MIT](LICENSE) © 2026 ppmao12
+
+随便用，改也行、商用也行，保留版权声明即可。
 
 ---
 
